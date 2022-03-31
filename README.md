@@ -1,4 +1,4 @@
-# DH110-LINDSEYMARDONA
+# 22s-dh110
 ## Lindsey Mardona
 
 I am withering away\
