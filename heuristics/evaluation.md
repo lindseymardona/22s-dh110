@@ -1,6 +1,15 @@
 # UX Project
-## Lindsey Mardona - DH110 S22
-The intended contributions of the project shall be to pursue not only a usable UX design, but also an aesthetic one.
+## Lindsey Mardona - Digital Humanities 110 - Spring 2022
+### Assignment 01: Heuristic Evaluation
+
+# Project Description #
 
 **Website 1: [Ultimate Guitar](https://www.ultimate-guitar.com/)**
-![ultimate-guitar](ultimate-guitar.png)
+![ultimate-guitar](/pictures/ultimate-guitar.png)
+
+# Usability Problems: Severity Scale #
+**Rating** | **Description** 
+-----------|--------------------
+1 | Little to no usability problems
+2 | Minor usability problem (low-medium priority)
+3 | Major usability problem (high priority)
