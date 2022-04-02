@@ -27,7 +27,7 @@ At first glance, the site has its strengths and weaknesses. The simple interface
 ## Heuristic Evaluation ##
 **Heuristic & Description** | **Severity Rating** | **Evaluation** | **Recommendations** 
 ----------------------------|--------------------|----------------|------------------------
-**1. Visibility of system status** | 3 | stinky | deez
+**1. Visibility of system status:** The current state of the system should be clearly communicated to users. The system response should be timely. | 2 | Transitions between tabs are quick with no special effects. However, it is a little bit hard to tell where the user currently is on the site. | Highlight the tab that the user is currently accessing. Add a path at the top of the page (e.g. "Tabs -> Chords -> Ed Sheeran -> Perfect (ver 7)").
 **2. Match between system and the real world** | 3 | stinky | deez
 **3. User control and freedom** | 3 | stinky | deez
 **4. Consistency and standards** | 3 | stinky | deez
@@ -36,4 +36,4 @@ At first glance, the site has its strengths and weaknesses. The simple interface
 **7. Flexibility and efficiency of use** | 3 | stinky | deez
 **8. Aesthetic and minimalist design** | 3 | stinky | deez
 **9. Help users recognize, diagnose, and recover from errors** | 3 | stinky | deez
-**10. Help and documentation** | 3 | stinky | deez
+**10. Help and documentation:** Additional instructions, if necessary, should be both comprehensible and easily accessible. | 3 | stinky | deez
