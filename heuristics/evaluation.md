@@ -27,13 +27,13 @@ At first glance, the site has its strengths and weaknesses. The simple interface
 ## Heuristic Evaluation ##
 **Heuristic & Description** | **Severity Rating** | **Evaluation** | **Recommendations** 
 ----------------------------|--------------------|----------------|------------------------
-**1. Visibility of system status:** The current state of the system should be clearly communicated to users. The system response should be timely. | 2 | Transitions between tabs are quick with no special effects. However, it is a little bit hard to tell where the user currently is on the site. | Highlight the tab that the user is currently accessing. Add a path at the top of the page (e.g. "Tabs -> Chords -> Ed Sheeran -> Perfect (ver 7)").
-**2. Match between system and the real world** | 3 | stinky | deez
-**3. User control and freedom** | 3 | stinky | deez
-**4. Consistency and standards** | 3 | stinky | deez
-**5. Error prevention** | 3 | stinky | deez
-**6. Recognition rather than recall** | 3 | stinky | deez
-**7. Flexibility and efficiency of use** | 3 | stinky | deez
-**8. Aesthetic and minimalist design** | 3 | stinky | deez
-**9. Help users recognize, diagnose, and recover from errors** | 3 | stinky | deez
-**10. Help and documentation:** Additional instructions, if necessary, should be both comprehensible and easily accessible. | 3 | stinky | deez
+**1. Visibility of system status:** The current state of the system should be clearly communicated to users. The system response should be timely. | 2 | (+) Transitions between tabs are quick with no special effects. <br/>(-) It is a little bit hard to tell where the user currently is on the site. | Highlight the tab that the user is currently accessing. Add a path at the top of the page (e.g. "Tabs -> Chords -> Ed Sheeran -> Perfect (ver 7)").
+**2. Match between system and the real world:** | 3 | stinky | deez
+**3. User control and freedom:** | 3 | stinky | deez
+**4. Consistency and standards:** | 3 | stinky | deez
+**5. Error prevention:** | 3 | stinky | deez
+**6. Recognition rather than recall:** | 3 | stinky | deez
+**7. Flexibility and efficiency of use:** Allow for use of shortcuts to maximize efficiency of use, and provide personalized content to maximize functionality for the individual. | 1 | (+) Tabs have visible "Edit", "Add To Playlist", and "Favorite" options that also stay at the top when scrolling down to provide ease of access. There is also an option to "Download PDF" at the top. The header links to the official tab, backing track, and Tonebridge, and the sidebar lists more user-submitted versions/variations of the tabs in order to smoothly and conveniently navigate between all of them instead of having to go back or perform new searches every time. The home page displays a list of "Top Tabs", both for "Today" and "All-time". There is a place on the home page for "Recently Viewed" to easily go back to any recent tabs the user was looking at, and there is a "#WhatsUp" section that shows "Hot" and "New" threads in the Forums. | Add a user-specific recommendation tab.
+**8. Aesthetic and minimalist design:** Any unnecessary information and/or elements should be ommitted. | 1 | (+) The interface is very simple and easy to navigate. <br/>(-) The ad placement is distracting. The colorscheme could be more visually appealing. | Room for cosmetic improvement.
+**9. Help users recognize, diagnose, and recover from errors:** Error messages should be clear and communicate to the user what went wrong and how to fix it. | 1 | (+) Search bar shows results for corrected typos when nothing  is found, and also tells the user when nothing is relevant. Anything subscription-locked communicates that it requires a Pro membership very clearly. | Room for cosmetic improvement.
+**10. Help and documentation:** Additional instructions, if necessary, should be both comprehensible and easily accessible. | 2 | (+) The footer has information links such as "About", "Site rules", and "Support". <br/>(-) Information about each specific tab is missing. | Add a small blurb either at the top or side of each tab, as a popup when hovering each tab, or as a section in the "About" tab, to describe its features. 
