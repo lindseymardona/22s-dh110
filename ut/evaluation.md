@@ -43,6 +43,6 @@ The participant reactions and feedback during the testing was helpful in both id
 
 **Task** | **Conclusions** 
 -----------|--------------------
-01 | The Star rating displayed when searching tabs is a user-submitted satisfaction rating. There is no easy access or indication of tab difficulty when browsing tabs.
+01 | New issue identified: The star rating displayed when searching tabs is a user-submitted satisfaction rating. There is no easy access or indication of tab difficulty when browsing tabs.
 02 | Futher assessment of severity of issue: The user expected the functionality to request a new tab to be in the "Tabs" section; rather, it was located in the "Forums" section. There is no indication of where to go to request a tab to be created if a user cannot find a certain tab. There should be information and/or a hotlink for this feature located in the "Tabs" section. The participant confirmed through his own sentiments that the interface for Forums was intimidating and nonintuitive for users who have never navigated a forum before, which may also be a problem when a user simply wants to request a tab rather than participate in discussions with other users. 
 03 | Futher assessment of severity of issue: The "Shots" tab should provide the option to submit a user's own videos; the current only way to do so is through the home page, and so the participant was unable to complete the task. Scrolling through "Shots" is not immediately intuitive, there were a few things that the user had to try before learning how to do so.
