@@ -8,16 +8,16 @@ Ultimate Guitar is a website where users can submit chord sheets, guitar tabs, u
 After conducting a [heuristic evaluation](https://github.com/lindseymardona/22s-dh110/blob/main/heuristics/evaluation.md) of the website, there were several usability problems identified of various severity ratings. The usability problems identified were as follows:
 - Hard to tell where the user is currently on the site
 - Tab Catalog minimizes all other tabs when one is selected
-- Certain pages ('Publish Tab', 'Pro') open into completely separate webpage structures that don't offer a way back to the main site
+- Certain pages ("Publish Tab", "Pro") open into completely separate webpage structures that don't offer a way back to the main site
 - Shots background is inconsistent
 - Subscription-locked functionality is not indicated as such
-- 'Shots' page does not provide a place to submit shots
-- 'Shots' page scroll functionality is confusing
+- "Shots" page does not provide a place to submit shots
+- "Shots" page scroll functionality is confusing
 - Ad placement is cluttered
 - Colorscheme is not aesthetic
-- 'Forums' page is cluttered and old-fashioned
+- "Forums" page is cluttered and old-fashioned
 - Information about each page is missing
-- Documentation about nonintuitive pages (particularly 'Forums') lacks documentation
+- Documentation about nonintuitive pages (particularly "Forums") lacks documentation
 
 From there, the problems selected to focus on were narrowed down to three. The severity of these problems shall be further evaluated in a pilot usability test, as well as the general effectiveness, efficiency, and satisfaction of the website. The first task shall be intended to evaluate the efficiency of day-to-day use of the 'Tabs' feature in particular. This task shall exercise use of the intuitiveness and clarity of both the navigational functions and the tab information available. The second task shall be intended to evaluate the clarity of functionality of the 'Forums' page, as well as practical navigation of this page. This page is described to be cluttered, old-fashioned, and nonintuitive, according to the heuristic evaluation. Finally, the third task shall be intended to evaluate the efficiency and clarity of the structure of the 'Shots' page, which according to the heuristic evaluation, has room for improvement aesthetically and also may be confusing to navigate the functionality of.
 \
@@ -34,7 +34,15 @@ The moderator script and participant survey can be accessed [here](https://docs.
 The editable survey link for collaborators is located [here](https://docs.google.com/forms/d/16XreIGjRd9fCsLH5bAqzKbV9CcU1L1pLqOHu5QVv47w/edit).
 
 # Video of Pilot UT #
-*Video embedded here*
+[![Pilot-UT](/pictures/pilot-ut.png)](https://www.youtube.com/embed/xz_8mPhnNmI)
 
 # Reflection #
-*What went well / What didn't / Where to improve / What you learned*
+The pilot test was conducted relatively smoothly; the participant had no issues setting up the testing environment. However, because of low bandwith and connection issues, there were occasionally times where the audio from the participant's side was lagging. If anything was not comprehensible, then the moderator simply asked the participant to repeat himself. The tasks also did not take the expected 20 minutes; the participant provided feedback that the tasks were sufficiently thorough and the shorter task completion time can likely be attributed to individual differences in comfort and experience with technology. Because of a lack of resources, the pilot UT was conducted with a male-identifying young adult; however, if this test were to be reconducted in the target demographic (middle-aged men) it is extremely likely that the testing time would fall closer to the expected 20-30 minutes. A couple typos were also caught on the testing material during the testing session, which were later corrected.
+
+The participant reactions and feedback during the testing was helpful in both identifying new issues and confirming the severity of certain problems previously identified in the heuristic evaluation. The participant expressed sentiments about the interface of the landing page being slightly intimidating and untrustworthy. In addition, conclusions about specific issues being tested were drawn through observation of the participant's navigation of the website. The summary of conclusions is as follows:
+
+**Task** | **Conclusions** 
+-----------|--------------------
+01 | The Star rating displayed when searching tabs is a user-submitted satisfaction rating. There is no easy access or indication of tab difficulty when browsing tabs.
+02 | Futher assessment of severity of issue: The user expected the functionality to request a new tab to be in the "Tabs" section; rather, it was located in the "Forums" section. There is no indication of where to go to request a tab to be created if a user cannot find a certain tab. There should be information and/or a hotlink for this feature located in the "Tabs" section. The participant confirmed through his own sentiments that the interface for Forums was intimidating and nonintuitive for users who have never navigated a forum before, which may also be a problem when a user simply wants to request a tab rather than participate in discussions with other users. 
+03 | Futher assessment of severity of issue: The "Shots" tab should provide the option to submit a user's own videos; the current only way to do so is through the home page, and so the participant was unable to complete the task. Scrolling through "Shots" is not immediately intuitive, there were a few things that the user had to try before learning how to do so.
