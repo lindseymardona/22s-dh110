@@ -41,9 +41,9 @@ The pilot test was conducted relatively smoothly; the participant had no issues 
 
 The tasks also did not take the expected 20 minutes; the participant provided feedback that the tasks were sufficiently thorough and the shorter task completion time can likely be attributed to individual differences in comfort and experience with technology. Because of a lack of resources, the pilot UT was conducted with a male-identifying young adult; however, if this test were to be reconducted in the target demographic (middle-aged men) it is extremely likely that the testing time would fall closer to the expected 20-30 minutes. 
 
-A couple typos were also caught on the testing material during the testing session, which were later corrected.
+A couple typos were also caught on the testing material during the testing session in the section for Task 01, which were later corrected.
 
-The participant reactions and feedback during the testing was helpful in both identifying new issues and confirming the severity of certain problems previously identified in the heuristic evaluation. The participant expressed sentiments about the interface of the landing page being slightly intimidating and untrustworthy. In addition, conclusions about specific issues being tested were drawn through observation of the participant's navigation of the website. The summary of conclusions is as follows:
+The participant reactions and feedback during the testing were helpful in both identifying new issues and confirming the severity of certain problems previously identified in the heuristic evaluation. The participant expressed sentiments about the interface of the landing page being slightly intimidating and untrustworthy. In addition, conclusions about specific issues being tested were drawn through observation of the participant's navigation of the website. The summary of conclusions is as follows:
 
 **Task** | **Conclusions** 
 -----------|--------------------
