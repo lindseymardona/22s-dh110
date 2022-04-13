@@ -1,8 +1,8 @@
 # 22s-dh110
 ## Lindsey Mardona
 
-[Week 1: Heuristic Evaluation](https://github.com/lindseymardona/22s-dh110/blob/main/heuristics/evaluation.md)
-[Week 2: Pilot UT](https://github.com/lindseymardona/22s-dh110/blob/main/ut/evaluation.md)
+Week 1: [Heuristic Evaluation](https://github.com/lindseymardona/22s-dh110/blob/main/heuristics/evaluation.md)\
+Week 2: [Pilot UT](https://github.com/lindseymardona/22s-dh110/blob/main/ut/evaluation.md)
 
 I am withering away\
 \
