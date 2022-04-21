@@ -2,7 +2,7 @@
 ## Lindsey Mardona
 
 Week 1: [Heuristic Evaluation](https://github.com/lindseymardona/22s-dh110/blob/main/week-01/heuristic-evaluation.md)\
-Week 2: [Pilot UT](https://github.com/lindseymardona/22s-dh110/blob/main/week-02/usability-testing.md)
+Week 2: [Pilot UT](https://github.com/lindseymardona/22s-dh110/blob/main/week-02/usability-testing.md)\
 Week 3: [Contextual Inquiry](https://github.com/lindseymardona/22s-dh110/blob/main/week-03/contextual-inquiry.md)
 
 I am withering away\
