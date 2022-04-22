@@ -22,8 +22,20 @@ The interview shall take place remotely over Zoom. The user's screen shall be sh
 The field study script and observation guide can be accessed [here](https://docs.google.com/document/d/1E6w9fPAWbljCwtAZF6OQsE6wmw0_SpHjyifBuiiC0yM/edit?usp=sharing).
 
 ### User Data ### 
-The interview recording can be accessed [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).\
-The interview transcript can be accessed [here](https://docs.google.com/document/d/1E6w9fPAWbljCwtAZF6OQsE6wmw0_SpHjyifBuiiC0yM/edit?usp=sharing).
+The interview recording can be accessed [here](https://youtu.be/aEGrp3EMzzQ).\
+The interview transcript can be accessed [here](https://docs.google.com/document/d/1yKlXrUADigkI_4KCJpgpuA5-90b_vAb9qnoVJqRztBE/edit?usp=sharing).
 
 # Reflection #
-i am losing my mind.
+I was able to learn a lot from this interview. In terms of the technical aspects, this interview went much more smoothly in comparison to the pilot UT; there were no connection issues and it was very easy to understand what the participant was saying at all times. 30 minutes were allotted for the interview to be conducted, and the participant was very thorough in his responses, so the resulting interview did end up being around 30 minutes long. Funnily enough (and completely unintentionally), the two sites that the participant ended up using to demonstrate his music learning process were the two sites used for the intiial heuristic evaluation. It was really interesting to see that there was a lot of useful information that could be learned from this kind of contextual inquiry, and even though the contents of the meeting with the participant was a lot less specific than the content of the usability testing, there were still both lots of different things to learn as well as factors previously identified in the initial heuristic evaluation that came up again. Aside from the interviewing process itself, the transcript editing took a lot more time than I expected it to, although the auto-transcript software was extremely helpful. I don't even want to think about how long it would have taken without it.
+
+From the participant's responses, there are a few things that should be prioritized when improving the usability of Ultimate Guitar: simplicity, accessibility of learning (rather than limiting the chord sheets to be chord sheets alone), and open access. All of these come before working on the profit model of the website, because without an appealing 'Lite' version of the website, the 'Pro' version will not be successful. Some insights from the interview are as follows:
+
+### Futher assessment of severity of issues: ###
+- Ads should not be obstructing use of the site to limit clutter.
+- Difficulty ratings should be easily viewable, and should also be standardized in some way.
+- The process of viewing different versions of a song should be streamlined.
+
+### New suggestions identified: ###
+- Functionality that allows the MIDI of a song to be played back should be added to improve music learning capabilities.
+- Both site usage and lyrics should be made available in different languages.
+- The tab revision process should be simple and evident to the user.
