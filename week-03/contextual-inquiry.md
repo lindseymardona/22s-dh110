@@ -17,9 +17,13 @@ The research shall be conducted through participatory interaction. An interview 
 The interview shall take place remotely over Zoom. The user's screen shall be shared, and both their screen and their voice shall be recorded as they respond to questions and complete tasks in order to collect data and monitor their activity. The collected data shall later be used for analytical purposes.
 
 # Materials #
-Contact, schedule, and visit the place
-Meet/Observe people/person, follow the interview guide you prepared
-Collect/Record the data, make a notes
+
+### Contextual Inquiry Guide ### 
+The field study script and observation guide can be accessed [here](https://docs.google.com/document/d/1E6w9fPAWbljCwtAZF6OQsE6wmw0_SpHjyifBuiiC0yM/edit?usp=sharing).
+
+### User Data ### 
+The interview recording can be accessed [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).\
+The interview transcript can be accessed [here](https://docs.google.com/document/d/1E6w9fPAWbljCwtAZF6OQsE6wmw0_SpHjyifBuiiC0yM/edit?usp=sharing).
 
 # Reflection #
-Ultimate Guitar is a website where users can submit chord sheets, guitar tabs, ukelele tabs, bass tabs, and more. In addition to its main feature, it also offers additional functionalities for musicians and users to enjoy. The Shots feature allows users to submit videos of themselves playing. The Courses feature is a place for users to access and purchase published courses. The Articles feature is a place where music-related news is submitted. Finally, the Forums feature is where musicians can meet, interact, and hold discussion about any topic of their interest. The site does not require the user to sign up to be able to use it; however, additional functionality such as favoriting tabs is enabled when the user does create an account.
+i am losing my mind.
