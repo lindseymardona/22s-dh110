@@ -3,10 +3,15 @@
 ### Assignment 04: Persona + Usage 
 
 # UX Storytelling #
-lorem ipsum blah blah blah
+When it comes to UX, it is crucial to remember at every stage in the process that its purpose is user-centered. The intent is to design a product in order to fill the needs of a wide range of users with different identities. This is where the purpose of UX storytelling comes in: to develop some specitic perspectives of users that may very well be using the product in question, and to be able to empathize with them and see things from their point of view so to better understand the various but specific needs of different users of the product. The insights that are learned from creating a persona and using empathy maps, scenarios, and journey maps to better understand them, are ones that can continue to be kept in mind as the product is designed: because at the end of the day, the goals of the people the service is designed for aligns with the goals of the service itself. 
 
 # Proposed Tasks #
-lorem ipsum blah blah blah
+
+## Task 1: Tablature Redesign ##
+Further insights from the [contextual inquiry](https://github.com/lindseymardona/22s-dh110/blob/main/week-03/contextual-inquiry.md) have raised the imminent issue of tablature on the Ultimate Guitar website being slightly archaic and difficult to understand for new users. By implementing a more modern way of visualizing tablature, it can make the process of learning music easier and less intimidating to even beginner musicians with no background in music. Information on how to read tablature should be very easily accessible. The implementation of visualizing this tablature comes with several simple baseline benefits: a more intuitive way to read the chords and the rhythms of the guitar, an automatic scrolling functionality, playback of programmed guitars demonstrating how the song should sound, and a built-in metronome. These additional tools should make practicing the music easier as well, so that users can improve efficiently. Additionally, as also addressed in the [usability testing](https://github.com/lindseymardona/22s-dh110/blob/main/week-02/usability-testing.md), the tabs should also have a sidebar that displays different versions of the song and their difficulties to make finding music to learn more user- and beginner- friendly. These difficulties should be standardized so that the rating is slightly less arbitrary and subjective.
+
+## Task 2: Navigational Redesign + Tutorial ##
+Usability problems identified in the [heuristic evaluation](https://github.com/lindseymardona/22s-dh110/blob/main/week-01/heuristic-evaluation.md) 
 
 # Persona 1: Bradley Tandiono #
 ![persona-1](/week-04/persona1.png)
