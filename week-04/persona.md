@@ -25,4 +25,19 @@ Finally, he finds Ultimate Guitar, which is supported by community-submitted tab
 ![joruney-map-1](/week-04/journeymap1.png)
 
 # Persona 2: Liam  #
-lorem ipsum blah blah blah
+![persona-2](/week-04/persona2.png)
+
+## Empathy Map ##
+![empathy-map-2](/week-04/empathymap2.png)
+
+## Scenario ##
+Liam is a professional keyboard player from Nashville, Tennessee, USA. He has played gigs for years as a keyboardist with the rest of his band, and he often helps out other bands to play keyboard for them as well. Unfortunately, though he was once very on top of the music that was trendy (and thus would often be played for gigs), the music scene is changing faster than he can keep up. His bands will sometimes spontaneously pick out songs before and during the gig and pull chords from the Internet. He wants to be able to keep up with them and read from a lead sheet during gigs to improv off of, but he's not tech savvy at all. 
+
+Sometimes, if he knows he's playing a new song the night before, he'll write out a lead sheet by hand and slip it into his binder. Otherwise, if he needs to navigate a complicated site, he'll ask his son to help him find the lead sheet for him online and print it out. However, this is impractical as a gigging musician whose sets change frequently, so his son gifts him an iPad for Christmas. The problem is that he's consistently struggled with the sites that he's tried to use before for these purposes. They are often convoluted with unnecessary information and confusing interfaces that are unattractive. All he wants is something clean and simple that gives him what he needs: nothing more, nothing less. 
+
+Some younger musicians recommend to him a website called Ultimate Guitar: it contains a large database of user-submitted chord sheets that he can reference and use with whoever he's gigging with that day. The interface is very intuitive and straightforward, and the site navigation minimizes any possible confusion with its functionality. He goes through the interactive tutorial available on their website, which shows him that he can go straight to the search bar, search for an artist or a song, and click the one he's looking for easily. It opens up to a guitar tab, but there is an option to select a lead sheet if that's what the user is looking for instead. He clicks on the lead sheet and displayed at the top is information about the key, difficulty, and more. The lead sheet is presented in a the way that is very similar to the way they used to be presented on paper: very clean and simple, simplistic, easy to ready, and without anything distracting. The lyrics are available so that he can follow along with the lead vocalist and/or provide backup vocals while he's improvising on chords. 
+
+The intuitive design of Ultimate Guitar makes it so that Liam can learn how to use something that is hassle-free, and makes his life as a gigging musiican much easier. He is finally able to conveniently pull up lead sheets within seconds so that the process of playing new songs can be streamlined into something that is nearly instantaneous, so he is able to keep up with the band he is playing with no matter what happens. His music is all in one place on his iPad, so he no longer has to carry binders full of paper, and he starts to feel a little bit more confident and self-sufficient because he is able to use an online resource without too much headache.
+
+## Journey Map ##
+![joruney-map-1](/week-04/journeymap2.png)
