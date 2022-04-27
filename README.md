@@ -8,5 +8,4 @@ Week 4: [Persona + Usage](https://github.com/lindseymardona/22s-dh110/blob/main/
 
 I am withering away\
 \
-![deflated hamter](https://pbs.twimg.com/media/FPE0MhxVEAEsNZk?format=png&name=900x900)\
-[git instructions](https://drive.google.com/file/d/1LdzWr7bHXvzPQc9CPPprJozJ-eS_SW16/view)
+![deflated hamter](https://pbs.twimg.com/media/FPE0MhxVEAEsNZk?format=png&name=900x900)
