@@ -38,7 +38,7 @@ Finally, he finds Ultimate Guitar, which is supported by community-submitted tab
 ## Journey Map ##
 ![joruney-map-1](/week-04/journeymap1.png)
 
-# Persona 2: Liam  #
+# Persona 2: Liam Anderson #
 ![persona-2](/week-04/persona2.png)
 
 ## Empathy Map ##
