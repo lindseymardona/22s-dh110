@@ -28,7 +28,7 @@ From there, personas and their appropriate usage scenarios were developed, in wh
 
 ## Tasks and Features ##
 
-Thus, the tasks and features selected for this low fidelity prototype are as follows:
+Thus, the tasks and features that have been selected for this low fidelity prototype are as follows:
 1. Search for a song
 2. Choose a different version of difficulty of the tablature from the sidebar
 3. Switch between tablature and a chord sheet
