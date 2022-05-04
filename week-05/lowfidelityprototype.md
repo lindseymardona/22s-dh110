@@ -25,17 +25,35 @@ From there, personas and their appropriate usage scenarios were developed, in wh
 - A free and trustworthy website without clutter or popups 
 - Different ways of presenting and learning the music (namely: interactive tablature and chord sheets)
 - A tool that is beginner-friendly while still promoting growth 
+- Using Shots to share videos
 
 ## Tasks and Features ##
 
-Thus, the tasks and features that have been selected for this low fidelity prototype are as follows:
-1. Search for a song
-2. Choose a different version of difficulty of the tablature from the sidebar
-3. Switch between tablature and a chord sheet
+Thus, the tasks and features that have been selected for this low fidelity prototype are as follows:</br></br>
+**Wireflow 1** </br>
+- Search for a song
+- Choose a different version of difficulty of the tablature from the sidebar
+- Switch between tablature and a chord sheet
+
+</br>**Wireflow 2**</br>
+- Access the interactive tutorial for how to use Shots
 
 # Wireframes #
+There are two wireframe spreads that have been designed to illustrate Wireflow 1 and Wireflow 2, depicted below. The full sized pdf of the low fidelity prototype wireframes can be accessed [here](https://github.com/lindseymardona/22s-dh110/blob/main/week-05/wireframes.pdf).
+
+## Wireframe 1 ##
+![wireframe1](/week-05/wireframe-1.jpg)
+
+## Wireframe 2 ##
+![wireframe2](/week-05/wireframe-2.jpg)
 
 # Wireflow #
+
+## Wireflow 1 ##
+![wireflow1](/week-05/wireflow-1.jpg)
+
+## Wireflow 2 ##
+![wireflow2](/week-05/wireflow-2.jpg)
 
 # Testing #
 
