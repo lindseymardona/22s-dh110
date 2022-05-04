@@ -31,12 +31,15 @@ From there, personas and their appropriate usage scenarios were developed, in wh
 
 Thus, the tasks and features that have been selected for this low fidelity prototype are as follows:</br></br>
 **Wireflow 1** </br>
-- Search for a song
-- Choose a different version of difficulty of the tablature from the sidebar
-- Switch between tablature and a chord sheet
+- Use the search bart to search for a song
+- Filter for the 'easy' version of difficulty of the tablature from the sidebar
+- Select the tablature for "Happier" by Ed Sheeran
+- Switch between the tablature and a chord sheet
 
 </br>**Wireflow 2**</br>
-- Access the interactive tutorial for how to use Shots
+- Access the 'Shots' page
+- Access the 'Help' window
+- Access the interactive tutorial for how to use the 'Shots' page
 
 # Wireframes #
 There are two wireframe spreads that have been designed to illustrate Wireflow 1 and Wireflow 2, depicted below. The full sized pdf of the low fidelity prototype wireframes can be accessed [here](https://github.com/lindseymardona/22s-dh110/blob/main/week-05/wireframes.pdf).
