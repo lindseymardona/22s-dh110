@@ -18,19 +18,38 @@ The full screen design tests can be accessed [here](https://www.figma.com/file/4
 
 # Screen Design #
 ## Spacing ##
+![Spacing](/week-06/spacing.png)
+
 ## Typographic Variations ##
 
-## Typographic Variation 1: Montserrat ##
-![Typographic Variation 1: Montserrat](/week-06/typographic-variation-1-montserrat.png)
+### Typographic Variation 1: Montserrat ###
+![Typographic Variation 1: Montserrat](/week-06/typographic-variant-1-montserrat.png)
 
-## Typographic Variation 2: Raleway ##
-![Typographic Variation 2: Raleway](/week-06/typographic-variation-2-raleway.png)
+### Typographic Variation 2: Raleway ###
+![Typographic Variation 2: Raleway](/week-06/typographic-variant-2-raleway.png)
 
-## Typographic Variation 3: Work Sans ##
-![Typographic Variation 3: Work Sans](/week-06/typographic-variation-3-work-sans.png)
+### Typographic Variation 3: Work Sans ###
+![Typographic Variation 3: Work Sans](/week-06/typographic-variant-3-work-sans.png)
 
 ## Shape Variations ##
+
+### Shape Variation 1: 37px ###
+![Shape Variation 1: 37px](/week-06/shape-variant-1-37.png)
+
+### Shape Variation 2: 10px ###
+![Shape Variation 2: 10px](/week-06/shape-variant-2-10.png)
+
+### Shape Variation 3: 60px ###
+![Shape Variation 3: 60px](/week-06/shape-variant-3-60.png)
+
+
 ## Color Variations ##
+
+### Color Variation 1: Light Mode ###
+![Color Variation 1: Light Mode](/week-06/color-variant-1-light.png)
+
+### Color Variation 2: Dark Mode ###
+![Color Variation 2: Dark Mode](/week-06/color-variant-2-dark.png)
 
 # Impression Test #
 
