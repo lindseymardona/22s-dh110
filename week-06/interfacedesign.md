@@ -88,8 +88,17 @@ The summary of revisions is as follows:
 - Drop shadow was removed because of too much/distracting color contrast.
 - Text was centered and increased in size for visibility and alignment consistency.
 - Tabs panels were darkened to make text more readable.
-- Spacing was improved.
+- Spacing was improved to be more consistent.
 - Search bar was increased in width, decreased in length, and text inside was made bigger.
 - Log In/Sign Up interface hub was simplified.
 - Header bar width was increased.
 - /Tabs/ navigation was removed from the home screen to minimize confusion.
+
+# Design System #
+The final design system is visualized below.
+
+![design-system](design-system.png)
+
+The typeface family, Raleway, was initially considered in one of the typographic variations because of its sans serif, modern look. It is easy to read, and different sizes can be used for appropriate texts.
+The colorscheme was intended to preserve some of the colors from the original Ultimate Guitar website while giving it a more modern redesign. The original site had a lot of red, yellow, and purple, as well as some green. Because the previous emphasis on red and yellow felt very old school, and the yellow was not very easy on the eyes when used as the primary text, I chose purple to be the new main color, with some of the iconic yellow used for minor accents only. The backgrounds and text were kept grayscale for readability purposes. 
+The spacing was a little bit inconsistent but was improved in the revised layout in response to feedback.
