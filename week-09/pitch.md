@@ -4,7 +4,7 @@
 
 # Materials #
 The deployment of the web documentation can be accessed [here](https://lindseymardona.github.io/22s-dh110/).\
-The pitch video can be accessed [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+The pitch video can be accessed [here](https://youtu.be/G9QvFX7EuBQ).
 
 # Conclusions #
 Prior to taking this class, I had no experience with the UX design process. I definitely underestimated just how tedious it was; I certainly didn't expect to be doing as much user testing as I ended up doing for this class, though in hindsight, it definitely makes a lot of sense. User interface and the user experience are things that are user-centric; the user should be the focus and should always be considered at every step and when any decisions are made. There really is no better way to know if you're hitting the mark or what you need to do better than to ask and/or observe the user directly. I definitely also found it really fascinating how different types of evaluation and testing could be utilized to extract information from various perspectives which could then be used going forward in the design process. However, again, they were all very tedious and time consuming; designing the materials to test with always took many, many hours, and then the testing and analysis of always took another few hours.
