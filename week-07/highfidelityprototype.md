@@ -25,10 +25,10 @@ The link to the high-fidelity prototype on Figma can be found [here](https://www
 The wireflows were separated into Task 1 and Task 2 as displayed below.
 
 ## Task 1 Flow ##
-![task1-flow](/week-07/task1-flow.png)
+![task1-flow](/pictures/task1-flow.png)
 
 ## Task 2 Flow ##
-![task2-flow](/week-07/task2-flow.png)
+![task2-flow](/pictures/task2-flow.png)
 
 # Cognitive Walkthrough #
 A cognitive walkthrough was performed in order to check the clarity of the interaction flow.

@@ -23,10 +23,10 @@ Usability problems identified in the [heuristic evaluation](https://github.com/l
 Additionally, with the implementation of this redesign, a basic tutorial on how to navigate the site and look for tabs should be easy to access.
 
 # Persona 1: Bradley Tandiono #
-![persona-1](/week-04/persona1.png)
+![persona-1](/pictures/persona1.png)
 
 ## Empathy Map ##
-![empathy-map-1](/week-04/empathymap1.png)
+![empathy-map-1](/pictures/empathymap1.png)
 
 ## Scenario ##
 Bradley is a 35 year old chef from Jakarta, Indonesia. He has wanted to learn how to play the guitar since around the time he graduated from culinary school, but the culinary world is hectic, and he has had little time to pursue much else as he worked to pay the bills and fought to establish himself as a chef. Recently, he received the promotion he had been hoping for, and he's found that he has a little bit more spare time than he has had in a long while. One day, on his much needed day off, he is relaxing and browsing YouTube when a Sungha Jung video pops up on his YouTube homepage. It's been a while since he's seen one of his covers, and so he clicks on the video to watch it. After listening to Sungha Jung's beautiful rendition of the song, he feels reinspired to learn guitar, and because he has more free time on his hands now, he decides to pick up the guitar he bought years ago and finally start teaching himself guitar.
@@ -36,13 +36,13 @@ After watching some tutorials on technique and learning some basic chords, he de
 Finally, he finds Ultimate Guitar, which is supported by community-submitted tabs, presents the tabs in a visually appealing and convenient way, provides helpful music-learning user functionality (such as playback of the song, auto-scrolling, a metronome, and more), and even has multiple versions of songs so that beginning musicians have something digestible for them to learn, and can later even work their way up to harder difficulties. He goes to the search bar to look for Sungha Jung's Howl's Moving Castle and the tab pops up in the results. He clicks on the song, which leads him to a very intuitive guitar tab. He can see the difficulty ratings of and navigate between the different versions of the songs easily in the sidebar. A tutorial for reading tablature is also displayed under the 'Help' button. He goes through that tutorial first, and then he clicks on the easiest version of the tab. After practicing whenever he has time for months after that, he finally learns how to play the piece. This accomplishment inspires him to keep learning and improving, and because of his positive experiences, Ultimate Guitar becomes his primary tool for learning songs on the guitar after that.
 
 ## Journey Map ##
-![joruney-map-1](/week-04/journeymap1.png)
+![joruney-map-1](/pictures/journeymap1.png)
 
 # Persona 2: Liam Anderson #
-![persona-2](/week-04/persona2.png)
+![persona-2](/pictures/persona2.png)
 
 ## Empathy Map ##
-![empathy-map-2](/week-04/empathymap2.png)
+![empathy-map-2](/pictures/empathymap2.png)
 
 ## Scenario ##
 Liam is a professional keyboard player from Nashville, Tennessee, USA. He has played gigs for years as a keyboardist with the rest of his band, and he often helps out other bands to play keyboard for them as well. Unfortunately, though he was once very on top of the music that was trendy (and thus would often be played for gigs), the music scene is changing faster than he can keep up. His bands will sometimes spontaneously pick out songs before and during the gig and pull chords from the Internet. He wants to be able to keep up with them and read from a lead sheet during gigs to improv off of, but he's not tech savvy at all, nor does he want to pay for a service he's already begrudgingly learning. 
@@ -54,4 +54,4 @@ Some younger musicians recommended to him a website called Ultimate Guitar: it c
 The intuitive design of Ultimate Guitar makes it so that Liam can learn how to use something that is hassle-free, and makes his life as a gigging musician much easier. He is finally able to conveniently pull up lead sheets within seconds so that the process of playing new songs can be streamlined into something that is nearly instantaneous, so he is able to keep up with the band he is playing with no matter what happens. His music is all in one place on his iPad, so he no longer has to carry binders full of paper, and he starts to feel a little bit more confident and self-sufficient because he is able to use an online resource without too much headache.
 
 ## Journey Map ##
-![joruney-map-1](/week-04/journeymap2.png)
+![joruney-map-1](/pictures/journeymap2.png)

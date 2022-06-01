@@ -45,18 +45,18 @@ Thus, the tasks and features that have been selected for this low fidelity proto
 There are two wireframe spreads that have been designed to illustrate Wireflow 1 and Wireflow 2, depicted below. The full sized pdf of the low fidelity prototype wireframes can be accessed [here](https://github.com/lindseymardona/22s-dh110/blob/main/week-05/wireframes.pdf).
 
 ## Wireframe 1 ##
-![wireframe1](/week-05/wireframe-1.jpg)
+![wireframe1](/pictures/wireframe-1.jpg)
 
 ## Wireframe 2 ##
-![wireframe2](/week-05/wireframe-2.jpg)
+![wireframe2](/pictures/wireframe-2.jpg)
 
 # Wireflow #
 
 ## Wireflow 1 ##
-![wireflow1](/week-05/wireflow-1.jpg)
+![wireflow1](/pictures/wireflow-1.jpg)
 
 ## Wireflow 2 ##
-![wireflow2](/week-05/wireflow-2.jpg)
+![wireflow2](/pictures/wireflow-2.jpg)
 
 # Testing #
 Testing was conducted with a test participant who is new to music learning in order to best test the wireframes. The instructions provided were not to explain the intermediate features ionvolved in executing the tasks. The tasks were explained as follows:</br></br>
@@ -66,9 +66,9 @@ Testing was conducted with a test participant who is new to music learning in or
 **Wireflow 2 Task:**</br> 
 - Access the interactive tutorial for how to use the "Shots" feature.</br>
 ## Test Wireflow 1 ##
-![test-wireflow1](/week-05/test-wireflow-1.jpg)
+![test-wireflow1](/pictures/test-wireflow-1.jpg)
 ## Test Wireflow 2 ##
-![test-wireflow2](/week-05/test-wireflow-2.jpg)
+![test-wireflow2](/pictures/test-wireflow-2.jpg)
 
 The participant was able to complete the task successfully without any confusion.
 

@@ -12,44 +12,44 @@ At this stage of the process, the objective shall be to create and test possible
 
 
 # Wireframe #
-![Layout Design](/week-06/layout-design.png)
+![Layout Design](/pictures/layout-design.png)
 
 The full screen design tests can be accessed [here](https://www.figma.com/file/4UFE4J6DPuM7hFXYf34K00/DH110---As6?node-id=2%3A13).
 
 # Screen Design #
 ## Spacing ##
-![Spacing](/week-06/spacing.png)
+![Spacing](/pictures/spacing.png)
 
 ## Typographic Variations ##
 
 ### Typographic Variation 1: Montserrat ###
-![Typographic Variation 1: Montserrat](/week-06/typographic-variant-1-montserrat.png)
+![Typographic Variation 1: Montserrat](/pictures/typographic-variant-1-montserrat.png)
 
 ### Typographic Variation 2: Raleway ###
-![Typographic Variation 2: Raleway](/week-06/typographic-variant-2-raleway.png)
+![Typographic Variation 2: Raleway](/pictures/typographic-variant-2-raleway.png)
 
 ### Typographic Variation 3: Work Sans ###
-![Typographic Variation 3: Work Sans](/week-06/typographic-variant-3-work-sans.png)
+![Typographic Variation 3: Work Sans](/pictures/typographic-variant-3-work-sans.png)
 
 ## Shape Variations ##
 
 ### Shape Variation 1: 37px ###
-![Shape Variation 1: 37px](/week-06/shape-variant-1-37.png)
+![Shape Variation 1: 37px](/pictures/shape-variant-1-37.png)
 
 ### Shape Variation 2: 10px ###
-![Shape Variation 2: 10px](/week-06/shape-variant-2-10.png)
+![Shape Variation 2: 10px](/pictures/shape-variant-2-10.png)
 
 ### Shape Variation 3: 60px ###
-![Shape Variation 3: 60px](/week-06/shape-variant-3-60.png)
+![Shape Variation 3: 60px](/pictures/shape-variant-3-60.png)
 
 
 ## Color Variations ##
 
 ### Color Variation 1: Light Mode ###
-![Color Variation 1: Light Mode](/week-06/color-variant-1-light.png)
+![Color Variation 1: Light Mode](/pictures/color-variant-1-light.png)
 
 ### Color Variation 2: Dark Mode ###
-![Color Variation 2: Dark Mode](/week-06/color-variant-2-dark.png)
+![Color Variation 2: Dark Mode](/pictures/color-variant-2-dark.png)
 
 # Impression Test #
 The impression test can be found [here](https://youtu.be/s8qyd5lGtUw).
@@ -62,22 +62,22 @@ The conclusions from the impression test are as follows:
 - Preferred color variation was dark mode for the overall look and readability.
 
 # Accessibility Check #
-![header-text-test](/week-06/header-text-test.png)
-![sidebar-text-test](/week-06/sidebar-text-test.png)
-![background-text-test](/week-06/background-text-test.png)
+![header-text-test](/pictures/header-text-test.png)
+![sidebar-text-test](/pictures/sidebar-text-test.png)
+![background-text-test](/pictures/background-text-test.png)
 
 Because the header text did not pass the color contrast test during the accessibility check, the color was modified.
-![header-text-retest](/week-06/header-text-retest.png)
+![header-text-retest](/pictures/header-text-retest.png)
 
 # Additional Feedback #
 Additional feedback was received from an industry professional. The feedback is pictured below.
 
-![feedback](/week-06/feedback.png)
+![feedback](/pictures/feedback.png)
 
 # Revised Layout #
 Taking into account the suggestions from the impression test, accessibility check, and some other feedback that was received regarding the user interface, the layout was revised. The revised layout is below.
 
-![revised-layout](/week-06/revised-layout.png)
+![revised-layout](/pictures/revised-layout.png)
 
 The summary of revisions is as follows: 
 
@@ -97,7 +97,7 @@ The summary of revisions is as follows:
 # Design System #
 The final design system is visualized below.
 
-![design-system](design-system.png)
+![design-system](/pictures/design-system.png)
 
 The typeface family, Raleway, was initially considered in one of the typographic variations because of its sans serif, modern look. It is easy to read, and different sizes can be used for appropriate texts.
 The colorscheme was intended to preserve some of the colors from the original Ultimate Guitar website while giving it a more modern redesign. The original site had a lot of red, yellow, and purple, as well as some green. Because the previous emphasis on red and yellow felt very old school, and the yellow was not very easy on the eyes when used as the primary text, I chose purple to be the new main color, with some of the iconic yellow used for minor accents only. The backgrounds and text were kept grayscale for readability purposes. 
