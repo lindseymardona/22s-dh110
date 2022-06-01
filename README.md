@@ -7,7 +7,7 @@ Week 3: [Contextual Inquiry](https://github.com/lindseymardona/22s-dh110/blob/ma
 Week 4: [Persona + Usage](https://github.com/lindseymardona/22s-dh110/blob/main/week-04/persona.md)\
 Week 5: [Low-Fidelity Prototype](https://github.com/lindseymardona/22s-dh110/blob/main/week-05/lowfidelityprototype.md)\
 Week 6: [Interface Design](https://github.com/lindseymardona/22s-dh110/blob/main/week-06/interfacedesign.md)
-Week 7: [High-Fidelity Prototype](https://github.com/lindseymardona/22s-dh110/blob/main/week-07/highfidelityprototype.md)
+Week 7: [High-Fidelity Prototype](https://github.com/lindseymardona/22s-dh110/blob/main/week-07/highfidelityprototype.md)\
 
 I am withering away\
 \
